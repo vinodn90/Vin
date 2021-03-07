@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T19:14:48.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="4t6Vst-CZWfWhQ98Oskn" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T19:15:41.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="hFW5EVqv5BCo5dKvWsoY" version="14.4.4" type="github">
   <diagram id="VuodknzAslncFI4TgPj1" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,13 +27,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hHBUbA6MrMZbCdPLhoby-12" value="Transform / Narmalization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="130" width="40" height="20" as="geometry" />
+          <mxGeometry x="320" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hHBUbA6MrMZbCdPLhoby-13" value="Data Warehouse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hHBUbA6MrMZbCdPLhoby-14" value="Cloud" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="110" width="50" height="20" as="geometry" />
+          <mxGeometry x="530" y="110" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hHBUbA6MrMZbCdPLhoby-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="hHBUbA6MrMZbCdPLhoby-19" value="Analyze" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="hHBUbA6MrMZbCdPLhoby-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hHBUbA6MrMZbCdPLhoby-22" value="PowerBI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="120" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
