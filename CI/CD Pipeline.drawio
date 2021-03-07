@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T20:38:13.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="mqBdAGNSkjcIiRx08fp_" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T20:42:49.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="LxLREz2cCsNv3Dt7qPDd" version="14.4.4" type="github">
   <diagram id="qEZCz_otJNc-nO6wqrlp" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,22 +20,34 @@
           <mxGeometry x="75" y="390" width="30" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2P_tlLRLVS4eTzOrFFoo-10" value="Visual Studio" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="270" width="110" height="70" as="geometry" />
+          <mxGeometry x="30" y="270" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2P_tlLRLVS4eTzOrFFoo-12" value="GIT" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="265" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2P_tlLRLVS4eTzOrFFoo-13" value="Build + Test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="270" width="110" height="70" as="geometry" />
+          <mxGeometry x="370" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2P_tlLRLVS4eTzOrFFoo-14" value="Release Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="270" width="110" height="70" as="geometry" />
+          <mxGeometry x="560" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2P_tlLRLVS4eTzOrFFoo-15" value="Azure SQL Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="740" y="255" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2P_tlLRLVS4eTzOrFFoo-16" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="320" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_tlLRLVS4eTzOrFFoo-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=15;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="295" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_tlLRLVS4eTzOrFFoo-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=15;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="295" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_tlLRLVS4eTzOrFFoo-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=15;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="295" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_tlLRLVS4eTzOrFFoo-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=15;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="300" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
