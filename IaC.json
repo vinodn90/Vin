@@ -1,1 +1,18 @@
 
+{
+ "$schema":"https://schema.management.azure.com/schemas/2021-03-09/deploymentTemplate.json#",
+ "contentVersion":"1.0.0.0",
+ "parameters":{},
+ "variables":{},
+ "resources":[
+   {
+   },
+   {
+   }
+  ],
+  "outputs":{},
+  "functions":[]
+}
+   
+  
+  
